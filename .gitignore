@@ -1,0 +1,30 @@
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+*.pyc
+__pycache__/
+.DS_Store
+venv/
+env/
+.venv/
+.vscode/
+
+# Python
+*.pyo
+*.pyd
+*.so
+*.dll
+*.dylib
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Logs
+*.log
+logs/

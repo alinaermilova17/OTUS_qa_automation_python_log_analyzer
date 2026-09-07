@@ -1,1 +1,0 @@
-# OTUS_qa_automation_python_log_analyzer
